@@ -1,0 +1,86 @@
+import TeamDoc1 from '../../assets/images/TeamDoc1.jpg';
+import TeamDoc2 from '../../assets/images/TeamDoc2.jpg';
+import TeamDoc3 from '../../assets/images/TeamDoc3.jpg';
+
+export const DOCTORS_INFO = [
+  {
+    id: 1,
+    name: 'Dr Fiona',
+    designation: 'Dental Surgery',
+    degree: 'MBBS',
+    location: 'HS Medical',
+    image: TeamDoc1,
+  },
+  {
+    id: 2,
+    name: 'Dr Justin',
+    designation: 'Dental Surgery',
+    degree: 'MBBS',
+    location: 'HS Medical',
+    image: TeamDoc2,
+  },
+  {
+    id: 3,
+    name: 'Dr Fred',
+    designation: 'Dental Specialist',
+    degree: 'MBBS',
+    location: 'MC Medical',
+    image: TeamDoc3,
+  },
+  {
+    id: 4,
+    name: 'Dr Ted',
+    designation: 'Dental Specialist',
+    degree: 'MAAL',
+    location: 'HS Medical',
+    image: TeamDoc1,
+  },
+  {
+    id: 5,
+    name: 'Dr Nate',
+    designation: 'Dental Surgery',
+    degree: 'MAAL',
+    location: 'BC Medical',
+    image: TeamDoc2,
+  },
+  {
+    id: 6,
+    name: 'Dr Charlie',
+    designation: 'Dental Surgery',
+    degree: 'MBBS',
+    location: 'CD Medical',
+    image: TeamDoc3,
+  },
+  {
+    id: 7,
+    name: 'Dr Alvee',
+    designation: 'Dental Specialist',
+    degree: 'MBBS',
+    location: 'SX Medical',
+    image: TeamDoc3,
+  },
+  {
+    id: 8,
+    name: 'Dr Fred',
+    designation: 'Dental Specialist',
+    degree: 'MBBS',
+    location: 'DT Medical',
+    image: TeamDoc1,
+  },
+  {
+    id: 9,
+    name: 'Dr Tim',
+    designation: 'Dental Surgery',
+    degree: 'MBBS',
+    location: 'TX Medical',
+    image: TeamDoc2,
+  },
+  {
+    id: 10,
+    name: 'Dr Rocky',
+    designation: 'Dental Surgery',
+    degree: 'MBBS',
+    location: 'TS Medical',
+    image: TeamDoc3,
+  },
+];

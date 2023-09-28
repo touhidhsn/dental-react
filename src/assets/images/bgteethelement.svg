@@ -1,0 +1,12 @@
+<svg width="435" height="300" viewBox="0 0 435 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_69_3682" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="435" height="300">
+<rect opacity="0.7" width="435" height="300" fill="#F0F9FC"/>
+</mask>
+<g mask="url(#mask0_69_3682)">
+<path d="M89.345 41.2908L101.266 97.0355" stroke="#A2CEFF" stroke-width="7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-0.0654297 136.057L57.5547 147.206" stroke="#A2CEFF" stroke-width="7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.7642 82.1702C27.7511 84.0284 73.4497 113.759 73.4497 113.759" stroke="#A2CEFF" stroke-width="7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M421.157 150.922C389.367 106.326 343.668 111.901 309.891 134.199C282.074 150.922 246.31 150.922 220.48 134.199C186.703 111.901 141.005 106.326 109.214 150.922C59.5416 219.674 164.847 273.56 152.926 336.738C144.978 385.05 144.978 503.972 202.598 542.993C218.494 554.142 240.349 542.993 238.363 524.411C234.389 477.957 230.415 399.915 266.179 401.773C301.943 399.915 297.97 479.816 293.996 524.411C292.009 542.993 313.865 554.142 329.76 542.993C385.393 503.972 387.38 385.05 379.432 336.738C365.524 271.702 470.83 219.674 421.157 150.922Z" fill="white" stroke="#A2CEFF" stroke-width="7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M184.716 171.362C186.703 175.078 232.402 191.801 309.891 134.199" stroke="#A2CEFF" stroke-width="7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
